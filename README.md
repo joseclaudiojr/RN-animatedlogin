@@ -31,7 +31,7 @@ José Claudio Vianna Jr. – [@joseclaudiojr](https://www.linkedin.com/in/josecl
 
 ## Contributing
 
-1. Fork it (<https://github.com/joseclaudiojr/animatedlogin.git>)
+1. Fork it (<https://github.com/joseclaudiojr/RN-animatedlogin.git>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
@@ -39,7 +39,7 @@ José Claudio Vianna Jr. – [@joseclaudiojr](https://www.linkedin.com/in/josecl
 
 ## License
 
-MIT © [AnimatedLogin](https://github.com/joseclaudiojr/animatedlogin/blob/master/LICENSE)
+MIT © [AnimatedLogin](https://github.com/joseclaudiojr/RN-animatedlogin/blob/master/LICENSE)
 
 <!-- Markdown link & img dfn's -->
 
